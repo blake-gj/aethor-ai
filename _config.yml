@@ -23,7 +23,7 @@ email: hello@aethor.ai
 description: | # this means to keep newlines
   Aethor.ai: Empowering businesses with on-premises language models (LLMs) and expert consulting services.
   We specialize in RAG implementation, prompt engineering, and secure AI solutions tailored to your needs.
-  Enhance productivity while maintaining data privacy and compliance.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aethor_ai
