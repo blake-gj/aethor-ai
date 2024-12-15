@@ -21,7 +21,7 @@
 title: Aethor.ai
 email: hello@aethor.ai
 description: | # this means to keep newlines
-  Aethor.ai: Empowering businesses with on-premises language models (LLMs) and expert consulting services.
+  Aethor.ai - Empowering businesses with on-premises language models (LLMs) and expert consulting services.
   We specialize in RAG implementation, prompt engineering, and secure AI solutions tailored to your needs.
 
 baseurl: "" # the subpath of your site, e.g. /blog
